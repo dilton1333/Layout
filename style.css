@@ -1,0 +1,26 @@
+#divCabecalho{
+width: 1000px;
+height: 280px;
+background-color:#f00;
+margin:auto;}
+
+
+#divMenu{
+width: 1000px;
+height: 50px;
+background-color:#0f0;
+margin:auto;}
+
+#divCorpo{
+width: 1000px;
+height: 300px;
+background-color:#0cc;
+margin: auto;}
+
+
+#divRodape{
+width: 1000px;
+height: 150px;
+background-color: #000;
+margin: auto;}
+
